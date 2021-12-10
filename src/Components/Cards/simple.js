@@ -4,6 +4,7 @@ function simple() {
     return (
         <div>
             hello
+            jade232
         </div>
     )
 }
